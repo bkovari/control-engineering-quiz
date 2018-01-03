@@ -1,0 +1,15 @@
+.imagemaxwidth {max-width: 100%;}
+
+.imagerightalign {float: right;}
+
+.imagecenteralign {display: block;margin-left: auto;margin-right: auto;}
+
+.candidateblock {display: inline-block;}
+
+label {display: table-cell;}
+
+.backgroundie8horizontalstretchtop {position: absolute; top: 0; left: 0; width: 100%;}
+
+.backgroundie8horizontalstretchbottom {position: absolute; bottom: 0; left: 0; width: 100%;}
+
+
